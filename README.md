@@ -247,7 +247,7 @@ craftybay_ecommerce_application/
 
 ## Contributors
 
-- [Md Alhaz Mondal Hredhay](https://github.com/hredhayxz)
+- [Md Abdul Malek](https://github.com/sajibmalek)
 
 ## Special Thanks
 
@@ -257,5 +257,5 @@ craftybay_ecommerce_application/
 
 ### A heartfelt thanks to my classmate:
 
-[Moniruzzaman](https://github.com/moniruzzaman76) & [Mujahedul Islam](https://github.com/muj-i) to share their knowledges with me & help me complete the project.
+- [Md Alhaz Mondal Hredhay](https://github.com/hredhayxz) & [Mujahedul Islam](https://github.com/muj-i) to share their knowledges with me & help me complete the project.
 
